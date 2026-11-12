@@ -6,7 +6,7 @@
  "scope": "./",
  "display": "standalone",
  "orientation": "portrait",
- "lang": "hi",
+ "lang": "en",
  "background_color": "#f3f0ff",
  "theme_color": "#7048e8",
  "categories": [
@@ -49,14 +49,14 @@
    "sizes": "540x960",
    "type": "image/png",
    "form_factor": "narrow",
-   "label": "Home – 5 difficulty levels"
+   "label": "Home with 5 difficulty levels"
   },
   {
    "src": "screenshot-quiz.png",
    "sizes": "540x960",
    "type": "image/png",
    "form_factor": "narrow",
-   "label": "Quiz – word aur Hindi meaning options"
+   "label": "Quiz with word and English options"
   },
   {
    "src": "screenshot-result.png",
